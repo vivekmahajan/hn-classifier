@@ -4,7 +4,7 @@ This will be chrome extension to improve hacker news browsing experience.
 
 Motivation
 ----------
-On hacker news the news are ranked based on users upvotes (karma etc), they are
+On hacker news the news articles are ranked based on users upvotes (karma etc). They are
 not personalized. I am trying to build chrome extension which will train a classifier
 based on user's interest(upvotes, comments etc) and will filter the stories
 accordingly.
