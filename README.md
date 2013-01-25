@@ -1,6 +1,6 @@
 hn-classifier
 =============
-This will be chrome extension to improve hacker news browsing experience.
+This will be a chrome extension to improve hacker news browsing experience.
 
 Motivation
 ----------
